@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <!-- Inherit Form View to Modify it -->
+    <record id="view_partner_form" model="ir.ui.view">
+        <field name="name">view_partner_form_inherit_nrc</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_form"/>
+        <field name="arch" type="xml">
+            <field name="vat" position="after">
+                <group>
+                    <field name="township_id" domain="[('state_id','=',state_id)]"/>
+
+                    <!-- Label-style heading -->
+                    <span string="Full NRC" class="o_form_label">
+                        Full NRC
+                    </span>
+                    <!-- Inline NRC fields -->
+                    <div class="d-flex">
+                        <field name="state_code" class="me-0" nolabel="1"/>
+                        <field name="township_code" nolabel="1"/>
+                        <field name="nrc_number" nolabel="1"/>
+                    </div>
+                </group>
+            </field>
+        </field>
+    </record>
+</odoo>

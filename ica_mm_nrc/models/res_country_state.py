@@ -1,0 +1,7 @@
+from odoo import api, fields, models
+
+class ResCountryState(models.Model):
+    _inherit = 'res.country.state'
+
+    code = fields.Char(string='Code',translate=True)
+    township_ids = fields.Many2one('res.country.state.township')

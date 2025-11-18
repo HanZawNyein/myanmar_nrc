@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <!-- This Menu Item must have a parent and an action -->
+    <menuitem id="myanmar_nrc" name="Myanmar NRC" parent="contacts.res_partner_menu_config">
+        <!-- This Menu Item must have a parent and an action -->
+                <menuitem id="res_country_category"
+                  name="Country"
+                  action="base.action_country"
+                  sequence="0"/>
+          <menuitem id="res_country_state_category"
+                  name="State"
+                  action="base.action_country_state"
+                  sequence="1"/>
+        <menuitem id="res_country_state_township_category"
+                  name="Township"
+                  action="ica_mm_nrc.res_country_state_township_action"
+                  sequence="2"/>
+    </menuitem>
+</odoo>
