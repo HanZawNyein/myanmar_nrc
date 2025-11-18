@@ -7,8 +7,16 @@ Region8Magway = f"{org_path}/8NRC_Magway_Region.csv"
 Region9NRC_Naypyidaw_Union_Territory = f"{org_path}/9NRC_Naypyidaw_Union_Territory.csv"
 Region1Mandalay = f"{org_path}/10NRC_Mandalay_Region.csv"
 State10Mon = f"{org_path}/10NRC_Mon_State.csv"
+State11Rakhine = f"{org_path}/11NRC_Rakhine_State.csv"
+Region12Yangon= f"{org_path}/12NRC_Yangon_Region.csv"
 
-file_path = State10Mon
+State13Shan_State_South= f"{org_path}/13NRC_Shan_State_South.csv"
+State13Shan_State_North= f"{org_path}/13NRC_Shan_State_North.csv"
+State13Shan_State_East= f"{org_path}/13NRC_Shan_State_East.csv"
+
+Region14Ayeyarwady= f"{org_path}/14NRC_Ayeyarwady_Region.csv"
+
+file_path = Region14Ayeyarwady
 
 
 with open(file_path, newline="") as f:
@@ -23,6 +31,6 @@ with open(file_path, newline="") as f:
 <record id="township_{township_lower}" model="res.country.state.township">
             <field name="name">{township_name}</field>
             <field name="code">{code}</field>
-            <field name="state_id" ref="ica_mm_nrc.state_mon"/>
+            <field name="state_id" ref="ica_mm_nrc.region_ayeyarwady"/>
         </record>
 """)

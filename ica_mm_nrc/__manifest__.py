@@ -14,6 +14,10 @@
         "data/9NaypyidawUnionTerritoryRegion.xml",
         "data/9MandalayRegion.xml",
         "data/10MonState.xml",
+        "data/11RakhineState.xml",
+        "data/12YangonRegion.xml",
+        "data/13ShanState.xml",
+        "data/14AyeyarwadyRegion.xml",
 
         "security/ir.model.access.csv",
         "views/res_country_state_township.xml",
