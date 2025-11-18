@@ -3,7 +3,7 @@
     <data noupdate="1">
         <record id="region_mandalay_region" model="res.country.state">
             <field name="name">Mandalay</field>
-            <field name="code">10/</field>
+            <field name="code">9/</field>
             <field name="country_id" ref="base.mm"/>
         </record>
 
