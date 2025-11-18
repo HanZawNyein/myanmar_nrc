@@ -16,7 +16,7 @@ State13Shan_State_East= f"{org_path}/13NRC_Shan_State_East.csv"
 
 Region14Ayeyarwady= f"{org_path}/14NRC_Ayeyarwady_Region.csv"
 
-file_path = Region14Ayeyarwady
+file_path = Region9NRC_Naypyidaw_Union_Territory
 
 
 with open(file_path, newline="") as f:
@@ -31,6 +31,6 @@ with open(file_path, newline="") as f:
 <record id="township_{township_lower}" model="res.country.state.township">
             <field name="name">{township_name}</field>
             <field name="code">{code}</field>
-            <field name="state_id" ref="ica_mm_nrc.region_ayeyarwady"/>
+            <field name="state_id" ref="ica_mm_nrc.region_mandalay_region"/>
         </record>
 """)

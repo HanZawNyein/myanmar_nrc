@@ -11,7 +11,7 @@
         "data/6TanintharyiRegion.xml",
         "data/7BagoRegion.xml",
         "data/8MagwayRegion.xml",
-        "data/9NaypyidawUnionTerritoryRegion.xml",
+        # "data/9NaypyidawUnionTerritoryRegion.xml",
         "data/9MandalayRegion.xml",
         "data/10MonState.xml",
         "data/11RakhineState.xml",
@@ -24,6 +24,8 @@
         "views/res_partner.xml",
         "views/menus.xml",
     ],
+    "images": ["static/description/img.png"],
+
     "installable": True,
     "license": "LGPL-3",
 }

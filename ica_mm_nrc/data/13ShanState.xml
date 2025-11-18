@@ -205,7 +205,7 @@
         </record>
 
 
-        <record id="township_hsi hseng" model="res.country.state.township">
+        <record id="township_hsi_hseng" model="res.country.state.township">
             <field name="name">Hsi Hseng</field>
             <field name="code">hsahsana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
@@ -422,7 +422,7 @@
         </record>
 
 
-        <record id="township_hsi hseng" model="res.country.state.township">
+        <record id="township_hsi_hseng" model="res.country.state.township">
             <field name="name">Hsi Hseng</field>
             <field name="code">hsahsana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
@@ -452,14 +452,14 @@
         </record>
 
 
-        <record id="township_mong khet" model="res.country.state.township">
+        <record id="township_mong_khet" model="res.country.state.township">
             <field name="name">Mong Khet</field>
             <field name="code">makhana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong ping" model="res.country.state.township">
+        <record id="township_mong_ping" model="res.country.state.township">
             <field name="name">Mong Ping</field>
             <field name="code">mapata</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
@@ -487,21 +487,21 @@
         </record>
 
 
-        <record id="township_kyaing lap" model="res.country.state.township">
+        <record id="township_kyaing_lap" model="res.country.state.township">
             <field name="name">Kyaing Lap</field>
             <field name="code">kalahta</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong hpyak" model="res.country.state.township">
+        <record id="township_mong_hpyak" model="res.country.state.township">
             <field name="name">Mong Hpyak</field>
             <field name="code">maphana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong hsat" model="res.country.state.township">
+        <record id="township_mong_hsat" model="res.country.state.township">
             <field name="name">Mong Hsat</field>
             <field name="code">mahsana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
@@ -515,7 +515,7 @@
         </record>
 
 
-        <record id="township_mong ton" model="res.country.state.township">
+        <record id="township_mong_ton" model="res.country.state.township">
             <field name="name">Mong Ton</field>
             <field name="code">matana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
@@ -529,42 +529,42 @@
         </record>
 
 
-        <record id="township_mong hta" model="res.country.state.township">
+        <record id="township_mong_hta" model="res.country.state.township">
             <field name="name">Mong Hta</field>
             <field name="code">mahtana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong yawng" model="res.country.state.township">
+        <record id="township_mong_yawng" model="res.country.state.township">
             <field name="name">Mong Yawng</field>
             <field name="code">mayata</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong yu" model="res.country.state.township">
+        <record id="township_mong_yu" model="res.country.state.township">
             <field name="name">Mong Yu</field>
             <field name="code">mayahta</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong yang" model="res.country.state.township">
+        <record id="township_mong_yang" model="res.country.state.township">
             <field name="name">Mong Yang</field>
             <field name="code">mayana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong pawk" model="res.country.state.township">
+        <record id="township_mong_pawk" model="res.country.state.township">
             <field name="name">Mong Pawk</field>
             <field name="code">mapahta</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>
         </record>
 
 
-        <record id="township_mong lar" model="res.country.state.township">
+        <record id="township_mong_lar" model="res.country.state.township">
             <field name="name">Mong Lar</field>
             <field name="code">malana</field>
             <field name="state_id" ref="ica_mm_nrc.state_shan"/>

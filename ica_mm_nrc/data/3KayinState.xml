@@ -28,7 +28,7 @@
         </record>
 
 
-        <record id="township_shan ywathit" model="res.country.state.township">
+        <record id="township_shan_ywathit" model="res.country.state.township">
             <field name="name">Shan Ywathit</field>
             <field name="code">raratha</field>
             <field name="state_id" ref="ica_mm_nrc.state_kayin"/>

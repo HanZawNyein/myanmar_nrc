@@ -85,7 +85,7 @@
         </record>
 
 
-        <record id="township_seikkyi kanaungto" model="res.country.state.township">
+        <record id="township_seikkyi_kanaungto" model="res.country.state.township">
             <field name="name">Seikkyi Kanaungto</field>
             <field name="code">hsakakha</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
@@ -99,28 +99,28 @@
         </record>
 
 
-        <record id="township_dagon myothit (seikkan)" model="res.country.state.township">
+        <record id="township_dagon_myothit_seikkan" model="res.country.state.township">
             <field name="name">Dagon Myothit (Seikkan)</field>
             <field name="code">dagahsa</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
         </record>
 
 
-        <record id="township_dagon myothit (south)" model="res.country.state.township">
+        <record id="township_dagon_myothit_south" model="res.country.state.township">
             <field name="name">Dagon Myothit (South)</field>
             <field name="code">dagata</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
         </record>
 
 
-        <record id="township_dagon myothit (north)" model="res.country.state.township">
+        <record id="township_dagon_myothit_north" model="res.country.state.township">
             <field name="name">Dagon Myothit (North)</field>
             <field name="code">dagama</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
         </record>
 
 
-        <record id="township_dagon myothit (east)" model="res.country.state.township">
+        <record id="township_dagon_myothit_east" model="res.country.state.township">
             <field name="name">Dagon Myothit (East)</field>
             <field name="code">dagara</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
@@ -155,7 +155,7 @@
         </record>
 
 
-        <record id="township_mingala taungnyunt" model="res.country.state.township">
+        <record id="township_mingala_taungnyunt" model="res.country.state.township">
             <field name="name">Mingala Taungnyunt</field>
             <field name="code">magata</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
@@ -176,7 +176,7 @@
         </record>
 
 
-        <record id="township_north okkalapa" model="res.country.state.township">
+        <record id="township_north_okkalapa" model="res.country.state.township">
             <field name="name">North Okkalapa</field>
             <field name="code">ukama</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
@@ -239,7 +239,7 @@
         </record>
 
 
-        <record id="township_south okkalapa" model="res.country.state.township">
+        <record id="township_south_okkalapa" model="res.country.state.township">
             <field name="name">South Okkalapa</field>
             <field name="code">ukata</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
@@ -323,14 +323,14 @@
         </record>
 
 
-        <record id="township_hlaingthaya (west)" model="res.country.state.township">
+        <record id="township_hlaingthaya_west" model="res.country.state.township">
             <field name="name">Hlaingthaya (West)</field>
             <field name="code">layana</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
         </record>
 
 
-        <record id="township_hlaingthaya (east)" model="res.country.state.township">
+        <record id="township_hlaingthaya_east" model="res.country.state.township">
             <field name="name">Hlaingthaya (East)</field>
             <field name="code">layara</field>
             <field name="state_id" ref="ica_mm_nrc.region_yangon"/>
