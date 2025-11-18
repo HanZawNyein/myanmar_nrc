@@ -1,7 +1,7 @@
 {
     "name": "Myanmar NRC",
     "author": "Agga, IdeaCode Academy",
-    "depends": ["base","contacts"],
+    "depends": ["base", "contacts"],
     "data": [
         "data/1KachinState.xml",
         "data/2KayahState.xml",
@@ -11,7 +11,7 @@
         "data/6TanintharyiRegion.xml",
         "data/7BagoRegion.xml",
         "data/8MagwayRegion.xml",
-
+        "data/9NaypyidawUnionTerritoryRegion.xml",
 
         "security/ir.model.access.csv",
         "views/res_country_state_township.xml",
