@@ -2,8 +2,9 @@ import csv
 
 
 Region7Bago="/home/agga/Documents/odoo-dev/odoo_app_store_18/myanmar_nrc/nrc/7NRC_Bago_Region.csv"
+Region8Magway = "/home/agga/Documents/odoo-dev/odoo_app_store_18/myanmar_nrc/nrc/8NRC_Magway_Region.csv"
 
-file_path = Region7Bago
+file_path = Region8Magway
 
 
 with open(file_path, newline="") as f:
