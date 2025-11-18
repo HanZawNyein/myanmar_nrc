@@ -12,6 +12,7 @@
         "data/7BagoRegion.xml",
         "data/8MagwayRegion.xml",
         "data/9NaypyidawUnionTerritoryRegion.xml",
+        "data/10MandalayRegion.xml",
 
         "security/ir.model.access.csv",
         "views/res_country_state_township.xml",

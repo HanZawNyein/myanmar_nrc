@@ -14,49 +14,49 @@
         </record>
 
 
-<record id="township_zabuthiri" model="res.country.state.township">
+        <record id="township_zabuthiri" model="res.country.state.township">
             <field name="name">Zabuthiri</field>
             <field name="code">zabatha</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
         </record>
 
 
-<record id="township_zeyarthiri" model="res.country.state.township">
+        <record id="township_zeyarthiri" model="res.country.state.township">
             <field name="name">Zeyarthiri</field>
             <field name="code">zayatha</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
         </record>
 
 
-<record id="township_pobbathiri" model="res.country.state.township">
+        <record id="township_pobbathiri" model="res.country.state.township">
             <field name="name">Pobbathiri</field>
             <field name="code">pabatha</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
         </record>
 
 
-<record id="township_lewe" model="res.country.state.township">
+        <record id="township_lewe" model="res.country.state.township">
             <field name="name">Lewe</field>
             <field name="code">lawana</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
         </record>
 
 
-<record id="township_dekkhinathiri" model="res.country.state.township">
+        <record id="township_dekkhinathiri" model="res.country.state.township">
             <field name="name">Dekkhinathiri</field>
             <field name="code">dakhatha</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
         </record>
 
 
-<record id="township_ottarathiri" model="res.country.state.township">
+        <record id="township_ottarathiri" model="res.country.state.township">
             <field name="name">Ottarathiri</field>
             <field name="code">utatha</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
         </record>
 
 
-<record id="township_tatkon" model="res.country.state.township">
+        <record id="township_tatkon" model="res.country.state.township">
             <field name="name">Tatkon</field>
             <field name="code">takana</field>
             <field name="state_id" ref="ica_mm_nrc.region_naypyidaw_union_territory"/>
