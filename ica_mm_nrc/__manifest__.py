@@ -9,6 +9,7 @@
         "data/4ChinState.xml",
         "data/5SagaingRegion.xml",
         "data/6TanintharyiRegion.xml",
+        "data/7BagoRegion.xml",
 
 
         "security/ir.model.access.csv",
