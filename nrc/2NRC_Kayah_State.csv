@@ -1,9 +1,0 @@
-NrcTownShipId,StateCode,TownShipCode,TownShipName_ENG,TownShipName_MM,TownShipShortName_MM,TownShipShortName_ENG,DelFlag,,(',"',N'","',","),"
-,2,KYH001,Loikaw,လွိုင်ကော်,လကန,lakana,0,,"('2',N'KYH001',N'Loikaw',N'လွိုင်ကော်',N'လကန',N'lakana',0),",,,
-,2,KYH002,Shadaw,ရှာတော,ရတန,ratana,0,,"('2',N'KYH002',N'Shadaw',N'ရှာတော',N'ရတန',N'ratana',0),",,,
-,2,KYH003,Demoso,ဒီမောဆို,ဒမဆ,damahsa,0,,"('2',N'KYH003',N'Demoso',N'ဒီမောဆို',N'ဒမဆ',N'damahsa',0),",,,
-,2,KYH004,Hpruso,ဖရူဆို,ဖရဆ,pharahsa,0,,"('2',N'KYH004',N'Hpruso',N'ဖရူဆို',N'ဖရဆ',N'pharahsa',0),",,,
-,2,KYH005,Bawlakhe,ဘော်လခဲ,ဘလခ,balakha,0,,"('2',N'KYH005',N'Bawlakhe',N'ဘော်လခဲ',N'ဘလခ',N'balakha',0),",,,
-,2,KYH006,Hpasawng,ဖားဆောင်း,ဖဆန,phahsana,0,,"('2',N'KYH006',N'Hpasawng',N'ဖားဆောင်း',N'ဖဆန',N'phahsana',0),",,,
-,2,KYH007,Mese,မယ်စဲ့,မစန,masana,0,,"('2',N'KYH007',N'Mese',N'မယ်စဲ့',N'မစန',N'masana',0),",,,
-,2,KYH008,Ywathit,ရွာသစ်,ရသန,rathana,0,,"('2',N'KYH008',N'Ywathit',N'ရွာသစ်',N'ရသန',N'rathana',0),",,,
