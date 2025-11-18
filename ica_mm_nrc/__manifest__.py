@@ -10,6 +10,7 @@
         "data/5SagaingRegion.xml",
         "data/6TanintharyiRegion.xml",
         "data/7BagoRegion.xml",
+        "data/8MagwayRegion.xml",
 
 
         "security/ir.model.access.csv",

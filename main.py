@@ -19,6 +19,6 @@ with open(file_path, newline="") as f:
 <record id="township_{township_lower}" model="res.country.state.township">
             <field name="name">{township_name}</field>
             <field name="code">{code}</field>
-            <field name="state_id" ref="ica_mm_nrc.region_bago"/>
+            <field name="state_id" ref="ica_mm_nrc.region_magway"/>
         </record>
 """)
